@@ -1,0 +1,6 @@
+{
+    "devDependencies": {
+        "dataframe-js": "1.4.3",
+        "papaparse": "^5.2.0"
+    }
+}
